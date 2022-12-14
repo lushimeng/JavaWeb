@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cookie-test" />
+        <module name="Web-demo" />
+        <module name="filter-demo" />
+        <module name="ajax-demo" />
+        <module name="request-demo" />
+        <module name="Jsp_demo" />
+        <module name="Tomcat-demo1" />
+        <module name="brand-demo" />
+        <module name="vue-demo" />
+        <module name="BloomFilter" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ajax-demo" target="8" />
+      <module name="BloomFilter" target="8" />
+      <module name="brand-demo" target="8" />
+      <module name="brand-mode" target="1.7" />
+      <module name="brand-test" target="8" />
+      <module name="cookie-demo" target="8" />
+      <module name="cookie-test" target="8" />
+      <module name="filter-demo" target="8" />
+      <module name="Jsp_demo" target="8" />
+      <module name="request-demo" target="1.8" />
+      <module name="Tomcat-demo1" target="1.5" />
+      <module name="Tomcat-demo2" target="1.5" />
+      <module name="vue-demo" target="8" />
+      <module name="Web-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

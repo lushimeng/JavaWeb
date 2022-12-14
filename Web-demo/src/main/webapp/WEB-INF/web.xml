@@ -1,0 +1,24 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+
+  <!-- Servlet全类名 -->
+  <servlet>
+    <!-- servlet的名称，名字任意-->
+    <servlet-name>demo11</servlet-name>
+    <!-- servlet的全类名 -->
+    <servlet-class>ServletDemo11</servlet-class>
+  </servlet>
+
+  <!-- Servlet 访问路径-->
+  <servlet-mapping>
+    <!-- servlet的名称，要和上面的名称一致-->
+    <servlet-name>demo11</servlet-name>
+    <!-- servlet的访问路径 -->
+    <url-pattern>/demo11</url-pattern>
+  </servlet-mapping>
+
+</web-app>

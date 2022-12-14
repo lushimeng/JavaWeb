@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+
+  // 方式一
+  function add(a, b){
+    return a + b;
+  }
+
+  let result = add(100, 200);
+  alert(result); // 300
+
+  // 方式二
+  var add = function(a, b){
+    return a + b;
+  }
+
+  let result1 = add(100, 200);  // 传入参数个数恰好为2个
+  alert(result1);  // 300
+
+  let result2 = add(200, 300, 1000);  // 传入参数个位大于两个，只取前面两个
+  alert(result2);  // 500
+
+  let result3 = add(100);  // 传入参数个数小于两个，返回NaN
+  alert(result3); // 100 + NaN = NaN
+
+
+</script>
+</body>
+</html>

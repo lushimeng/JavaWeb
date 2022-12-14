@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script src="./js/axios-0.18.0.js"></script>
+
+<script>
+    // 1. Axios为get请求提供的别名
+    // axios.get("http://localhost:8080/ajax-demo/axiosServlet?username=zhangsan")
+    //     .then(function (resp) {
+    //     alert(resp.data);
+    // })
+
+
+    // 2. Axios为post请求提供的别名
+    axios.post("http://localhost:8080/ajax-demo/axiosServlet", "username=zhangsan")
+        .then(function (resp) {
+            alert(resp.data);
+        })
+
+
+
+
+</script>
+</body>
+</html>

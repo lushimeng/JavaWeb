@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BloomFilter/BloomFilter.iml" filepath="$PROJECT_DIR$/BloomFilter/BloomFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Html_CSS_Project/Html_CSS_Project.iml" filepath="$PROJECT_DIR$/Html_CSS_Project/Html_CSS_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Http/Http.iml" filepath="$PROJECT_DIR$/Http/Http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jascript_Project/Jascript_Project.iml" filepath="$PROJECT_DIR$/Jascript_Project/Jascript_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaScript/JavaScript.iml" filepath="$PROJECT_DIR$/JavaScript/JavaScript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Web.iml" filepath="$PROJECT_DIR$/Java_Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jdbc-demo/Jdbc-demo.iml" filepath="$PROJECT_DIR$/Jdbc-demo/Jdbc-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jsp_demo/Jsp_demo.iml" filepath="$PROJECT_DIR$/Jsp_demo/Jsp_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maven_Project/Maven_Project.iml" filepath="$PROJECT_DIR$/Maven_Project/Maven_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mybatis_Project/Mybatis_Project.iml" filepath="$PROJECT_DIR$/Mybatis_Project/Mybatis_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tomcat-demo1/Tomcat-demo1.iml" filepath="$PROJECT_DIR$/Tomcat-demo1/Tomcat-demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tomcat-demo22/Tomcat-demo22.iml" filepath="$PROJECT_DIR$/Tomcat-demo22/Tomcat-demo22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Web-demo/Web-demo.iml" filepath="$PROJECT_DIR$/Web-demo/Web-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ajax-demo/ajax-demo.iml" filepath="$PROJECT_DIR$/ajax-demo/ajax-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brand-demo/brand-demo.iml" filepath="$PROJECT_DIR$/brand-demo/brand-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/out/brand-mode/brand-mode.iml" filepath="$PROJECT_DIR$/out/brand-mode/brand-mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cookie-test/cookie-test.iml" filepath="$PROJECT_DIR$/cookie-test/cookie-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filter-demo/filter-demo.iml" filepath="$PROJECT_DIR$/filter-demo/filter-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/request-demo/request-demo.iml" filepath="$PROJECT_DIR$/request-demo/request-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vue-demo/vue-demo.iml" filepath="$PROJECT_DIR$/vue-demo/vue-demo.iml" />
+    </modules>
+  </component>
+</project>

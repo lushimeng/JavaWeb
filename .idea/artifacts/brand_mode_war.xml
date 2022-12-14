@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="brand-mode:war">
+    <output-path>$PROJECT_DIR$/out/brand-mode/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>brand-mode</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="brand-mode.war">
+      <element id="artifact" artifact-name="brand-mode:war exploded" />
+    </root>
+  </artifact>
+</component>

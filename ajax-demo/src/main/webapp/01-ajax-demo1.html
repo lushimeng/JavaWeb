@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script>
+
+    // 1. 创建 XMLHttpRequest 对象，用于和服务器交换数据
+    var xmlhttp;
+    if(window.XMLHttpRequest){
+      xmlhttp = new XMLHttpRequest();
+    }else {
+      xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+    }
+
+    // 2. 向服务器发送请求
+    xmlhttp.open("GET", "http://localhost:8080/ajax-demo/ajaxServlet");  // 访问的路径为全路径
+    xmlhttp.send();
+
+    // 3. 获取服务器响应数据
+    xmlhttp.onreadystatechange = function (){
+      if(xmlhttp.readyState == 4 && xmlhttp.status == 200){
+        alert(xmlhttp.responseText);
+      }
+    }
+
+
+
+</script>
+
+</body>
+</html>

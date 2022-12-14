@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="button" value="点我" onclick="on()"> <br>
+<input type="button" value="再次点我" id="btn">
+
+<script>
+    // 方式1：在下面input标签上添加 onclick 属性，并绑定 on() 函数
+    function on(){
+        alert("我被点了~~~");
+    }
+
+    // 方式2：获取 id="btn" 元素对象，通过调用 onclick 属性 绑定点击事件
+    document.getElementById("btn").onclick = function(){
+        alert("我又被点了");
+    }
+
+</script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+

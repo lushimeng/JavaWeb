@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ajax-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/brand-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/brand-test" />
+    <file type="web" url="file://$PROJECT_DIR$/cookie-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/cookie-test" />
+    <file type="web" url="file://$PROJECT_DIR$/filter-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/Jsp_demo" />
+    <file type="web" url="file://$PROJECT_DIR$/out/brand-mode" />
+    <file type="web" url="file://$PROJECT_DIR$/request-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/Tomcat-demo1" />
+    <file type="web" url="file://$PROJECT_DIR$/Tomcat-demo2" />
+    <file type="web" url="file://$PROJECT_DIR$/vue-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/Web-demo" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Tomcat-demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/Web-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/request-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Jsp_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/out/brand-mode/pom.xml" />
+        <option value="$PROJECT_DIR$/brand-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/cookie-test/pom.xml" />
+        <option value="$PROJECT_DIR$/filter-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/ajax-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/vue-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/BloomFilter/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
